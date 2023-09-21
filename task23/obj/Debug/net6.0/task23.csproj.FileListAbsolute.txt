@@ -1,0 +1,16 @@
+C:\Examples\task23\bin\Debug\net6.0\task23.exe
+C:\Examples\task23\bin\Debug\net6.0\task23.deps.json
+C:\Examples\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+C:\Examples\task23\bin\Debug\net6.0\task23.dll
+C:\Examples\task23\bin\Debug\net6.0\ref\task23.dll
+C:\Examples\task23\bin\Debug\net6.0\task23.pdb
+C:\Examples\task23\obj\Debug\net6.0\task23.GlobalUsings.g.cs
+C:\Examples\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+C:\Examples\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+C:\Examples\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+C:\Examples\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+C:\Examples\task23\obj\Debug\net6.0\task23.dll
+C:\Examples\task23\obj\Debug\net6.0\ref\task23.dll
+C:\Examples\task23\obj\Debug\net6.0\task23.pdb
+C:\Examples\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
